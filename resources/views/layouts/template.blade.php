@@ -30,6 +30,11 @@
                 <a class="nav-link" aria-current="page" href="/categories">Categories</a>
               </li>
             </ul>
+            <ul class = "navbar-nav ms-auto">
+              <li class="nav-item">
+                <a href="/login" class="nav-link">Login</a>
+              </li>
+            </ul>
           </div>
         </div>
     </nav>
